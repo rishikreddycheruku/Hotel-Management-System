@@ -30,7 +30,7 @@ This project requires no installation for the frontend components. To run the ap
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/hotel-management-system.git
+   git clone https://github.com/rishikreddycheruku/Hotel-Management-System.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
@@ -56,11 +56,3 @@ Contributions to enhance the functionality, improve user interface, or fix bugs 
 3. Make your changes and commit them (`git commit -am 'Add new feature: Description'`).
 4. Push to your branch (`git push origin feature/new-feature`).
 5. Submit a pull request with a detailed explanation of your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README file provides a comprehensive overview of your Hotel Management System project, explaining its features, the technologies used, installation instructions, usage guidelines, contribution process, and licensing information in a clear and concise manner. Adjustments can be made based on specific project requirements or additional functionalities implemented.
